@@ -35,11 +35,12 @@ That's the kind of detail I like getting lost in.
 
 ## What's through the window
 
-A few questions I'm spending time on now:
+These are the questions I'm exploring right now:
 
-- **Java and problem solving:** Can I explain *why* my solution works, including its trade-offs?
-- **TraceIQ:** Can we connect what a user experienced to the technical failure behind it?
-- **Explainable AI:** Can an explanation help us check whether a decision followed the rules it was meant to follow?
+- **Java and problem solving:** Can I explain why a solution works, where it might fail, and what I would change as the problem grows?
+- **TraceIQ:** Can we connect what a user experienced to the technical failure behind it, so a team knows what to investigate?
+- **Explainable AI:** Can an explanation show both why a system made a decision and whether that decision followed the rules it was meant to follow?
+- **Knowledge lineage:** Can we trace a claim in a report or presentation back to the original goal, sources, human and AI insights, decisions, code, and evidence—even when they live across different platforms?
 
 I'll link the work here as those ideas take shape.
 
