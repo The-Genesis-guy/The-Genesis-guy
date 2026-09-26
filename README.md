@@ -33,23 +33,36 @@ I'm shaping **TraceIQ**, an academic project that connects users' experiences wi
 
 ## The bookshelf
 
-<details>
-<summary>📖 What I'm learning right now</summary>
+Short notes from things I've been building and learning. Open whichever title catches your eye.
 
-**Java and problem solving** are getting my attention first. I'm working toward being able to explain a solution, not merely recognise it. Next to that: software architecture, core ML, and the question of how AI systems behave outside a notebook.
+<details>
+<summary>📓 Note 01 — Start smaller than the idea</summary>
+
+I can imagine the complete version of a project long before I can build it. The useful question is: **what is the smallest version that proves the idea works?** I'm trying to finish that version first, then let real problems tell me what to add.
 
 </details>
 
 <details>
-<summary>📝 A note I keep for myself</summary>
+<summary>📓 Note 02 — A model is more than its training score</summary>
 
-When a project starts feeling too big, I try to find the smallest version that is genuinely useful, finish it, and learn from what broke. I don't always get that balance right. That's part of why I keep building.
+The MLOps pipeline made me think about what happens *after* deployment. If the incoming data changes, who notices? What evidence is enough to act? How do you recover without losing the story of what happened? Those questions became as interesting to me as training the model.
+
+</details>
+
+<details>
+<summary>📓 Note 03 — Understanding before speed</summary>
+
+With Java and problem solving, I'm working on being able to explain why a solution works, not just recognise a familiar pattern. Sometimes that means slowing down and rebuilding a concept from the basics. I'm okay with that.
 
 </details>
 
 ## The window
 
-The view from here keeps changing. Right now I'm curious about **reliable ML systems**, **software that people can actually use**, and **research ideas I can test instead of only talk about**.
+These are the questions in view right now:
+
+- **TraceIQ:** Can a team connect what a user experienced with the technical failure that caused it?
+- **Explainable AI:** Can an explanation also help check whether a decision followed the rules it was supposed to follow?
+- **Software systems:** How do you keep a useful first version understandable as more people and features arrive?
 
 Some repositories are finished enough to use; others show an idea while it is still taking shape. I like keeping both parts of the journey visible.
 
