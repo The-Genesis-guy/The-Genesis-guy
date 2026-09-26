@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hey, I'm Sam 👋
+# Hey, I'm Lucky 👋
 
 ![A cozy pixel-art room with a desk, books, plants, a small table, a bed, and a night sky](assets/little-world-room.png)
 
@@ -10,7 +10,7 @@
 
 </div>
 
-I'm **Polimetla Sam Nissy**. I grew up in Vijayawada and now study in Bengaluru. I have a habit of asking *“could I build that?”* before I've worked out how—and then learning what I need along the way.
+I have a habit of asking *“could I build that?”* before I've worked out how—and then learning what I need along the way.
 
 Some days that's a web application. Some days it's an ML pipeline. Lately it's also been getting serious about Java and the fundamentals I used to rush past. This page is a record of the things I try, not a claim that I've mastered them all.
 
@@ -27,7 +27,7 @@ Three projects that have taken up a fair amount of space here:
 <details>
 <summary>🧰 What else is on the desk?</summary>
 
-I'm also working through a **Student Portal API** in Java and Spring Boot, shaping **TraceIQ** for an academic project, and thinking through a new website for **Lowry Memorial English Church**. They are at different stages, so I'll link them here when their repositories are ready to show.
+I'm shaping **TraceIQ**, an academic project that connects users' experiences with technical failures so teams can better understand what went wrong. I'm also exploring a research paper on **explainable AI (XAI)**. They're at different stages, so I'll link them here when there's something ready to share.
 
 </details>
 
